@@ -5,7 +5,7 @@ read ip_address
 echo "Enter port number:"
 read port_number
 
-file="names1.txt"
+file="sample_domains.txt"
 data_output="${ip_address}_data.csv"
 resp_output="${ip_address}_responses.txt"
 raw_output="${ip_address}_raw.txt"
