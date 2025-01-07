@@ -18,7 +18,7 @@ Example with Google DNS:
 If testing with Google DNS (IP: 8.8.8.8, Port: 53), provide the following inputs when prompted:
 ```bash
 Enter resolver IP: 8.8.8.8
-Enter port number: 5300
+Enter port number: 53
 ```
 5. The shell script will generate three output files per resolver:
    - `[resolver_ip]_raw.txt`: Contains raw numerical data.
